@@ -1,0 +1,1482 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://wolfsgamingblog.com/xmlrpc.php">
+
+<title>WGB, Home of AWESOME Reviews &#8211; Reviewing all the coolest, newest games for Xbox, Playstation, Switch &amp; PC!</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Exo+2:r:latin,latin-ext"]},"api_url":"https:\/\/fonts-api.wp.com\/css"};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Exo 2",sans-serif;font-weight:400;font-style:normal}.wf-active h1{font-size:65px;font-weight:400;font-style:normal}.wf-active h2{font-size:33.8px;font-style:normal;font-weight:400}.wf-active h3{font-size:28.6px;font-style:normal;font-weight:400}.wf-active h4{font-size:26px;font-style:normal;font-weight:400}.wf-active h5{font-family:"Exo 2",sans-serif;font-size:22.1px;font-style:normal;font-weight:400}.wf-active h6{font-family:"Exo 2",sans-serif;font-size:19.5px;font-style:normal;font-weight:400}.wf-active .site-title{font-size:39px;font-style:normal;font-weight:400}.wf-active .site-banner h1{font-size:58.5px;font-style:normal;font-weight:400}.wf-active .comment-body h1, .wf-active .entry-content h1{font-size:46.8px;font-style:normal;font-weight:400}.wf-active .page-title h1{font-size:52px;font-style:normal;font-weight:400}.wf-active .posts .entry-title{font-size:39px;font-weight:400;font-style:normal}.wf-active .author-link, .wf-active .is-singular .post-navigation .nav-links span.nav-title{font-family:"Exo 2",sans-serif;font-style:normal;font-weight:400}.wf-active .comments-title{font-size:26px;font-style:normal;font-weight:400}.wf-active .widget h1, .wf-active .widget h2, .wf-active .widget h3, .wf-active .widget h4, .wf-active .widget h5, .wf-active .widget h6{font-family:"Exo 2",sans-serif;font-style:normal;font-weight:400}.wf-active .is-singular.archive-eventbrite .entry-header h1{font-size:52px;font-style:normal;font-weight:400}@media screen and (min-width: 1601px){.wf-active .site-banner h1{font-size:67.6px;font-style:normal;font-weight:400}}@media screen and (max-width: 1400px){.wf-active .site-banner h1{font-size:52px;font-style:normal;font-weight:400}}@media screen and (max-width: 1200px){.wf-active .site-banner h1{font-size:45.5px;font-style:normal;font-weight:400}}@media screen and (max-width: 680px){.wf-active .site-banner h1{font-size:28.6px;font-style:normal;font-weight:400}}@media screen and (max-width: 1200px){.wf-active .is-singular .entry-header h1, .wf-active .error404 .entry-header h1, .wf-active .page-header h1, .wf-active .page-template-eventbrite-index .page-header h1, .wf-active .single-event .entry-header h1{font-size:52px;font-style:normal;font-weight:400}}@media screen and (max-width: 1200px){.wf-active .is-singular.archive-eventbrite .entry-header h1{font-size:39px;font-style:normal;font-weight:400}}@media screen and (max-width: 960px){.wf-active .is-singular:not(.eventbrite-archive) .entry-header h1, .wf-active .error404 .entry-header h1, .wf-active .page-header h1{font-size:45.5px;font-style:normal;font-weight:400}}@media screen and (max-width: 680px){.wf-active .is-singular:not(.eventbrite-archive) .entry-header h1, .wf-active .error404 .entry-header h1, .wf-active .page-header h1, .wf-active .page-template-eventbrite-index .page-header h1, .wf-active .single-event .entry-header h1{font-size:39px;font-style:normal;font-weight:400}}@media screen and (max-width: 680px){.wf-active .is-singular.archive-eventbrite .entry-header h1{font-size:32.5px;font-style:normal;font-weight:400}}</style>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="google-site-verification" content="bmmAuNRVsuIMnQrkILbckV1VIIVUJGuVg88f5wRUDAA" />
+<meta name="p:domain_verify" content="47e76d1a2ac5b7cda531ec1480588b87" />
+<meta name="yandex-verification" content="bab2ecec6dc33f3a" />
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=63402'
+					+ '&is_singular=';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly93b2xmc2dhbWluZ2Jsb2cuY29t"
+		+ "&wpcomid=10853858"
+		+ "&time=1689667355";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="WGB, Home of AWESOME Reviews &raquo; Feed" href="https://wolfsgamingblog.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WGB, Home of AWESOME Reviews &raquo; Comments Feed" href="https://wolfsgamingblog.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1677072837i&ver=6.3-alpha-56011"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJytUl1PwzAM/EOkUSco4wHxU1CamODhfChOWvXfk5a12hhsPPBi6Zy7i52LHKPQwWfwWfYUrIhULHqWY0hGGZaWQq+o0cx38oTrysYk/ACWB8hR6Q+xoGv0lfiFpQthLqZQNUH/hh4zCNYpEK14uvBbzWypsIdk60kCObRds2ta2RckM++zDNQnlSbJeSL4D6P8Du7S6MaGx97rAN6EJFXJwamcUW/sAQ2EmID57FYwmKtgASwXUq0wbgOg11TMnABLV9kKqM43T3QCIqkJkiCwSk+NQ39bXs9O8Zno99c7zrn9BjWFkoVNaP4cwDeLpDJ6yzfkOhxlNbV90wpGFwlEgqG5lwY5bwxxbrTtXxtSk2JGLZaI+ceVT3Kef0rtu6guX+uKbIxVI/p+yVrU6rC49cqqe3HPbbd/2nWPXfdw+AQUOV0H&cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.wp-block-cover__image-background.has-parallax {
+	background-size: cover;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--bright-blue: #678db8;--wp--preset--color--yellow: #e7ae01;--wp--preset--color--light-gray-blue: #abb7c3;--wp--preset--color--medium-gray: #6a6c6e;--wp--preset--color--dark-gray: #1a1c1e;--wp--preset--color--dark-gray-blue: #292c2f;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans';--wp--preset--font-family--alegreya: Alegreya;--wp--preset--font-family--arvo: Arvo;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda';--wp--preset--font-family--cabin: Cabin;--wp--preset--font-family--chivo: Chivo;--wp--preset--font-family--commissioner: Commissioner;--wp--preset--font-family--cormorant: Cormorant;--wp--preset--font-family--courier-prime: 'Courier Prime';--wp--preset--font-family--crimson-pro: 'Crimson Pro';--wp--preset--font-family--dm-mono: 'DM Mono';--wp--preset--font-family--dm-sans: 'DM Sans';--wp--preset--font-family--domine: Domine;--wp--preset--font-family--eb-garamond: 'EB Garamond';--wp--preset--font-family--epilogue: Epilogue;--wp--preset--font-family--figtree: Figtree;--wp--preset--font-family--fira-sans: 'Fira Sans';--wp--preset--font-family--fraunces: Fraunces;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono';--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans';--wp--preset--font-family--inter: Inter;--wp--preset--font-family--josefin-sans: 'Josefin Sans';--wp--preset--font-family--jost: Jost;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville';--wp--preset--font-family--libre-franklin: 'Libre Franklin';--wp--preset--font-family--literata: Literata;--wp--preset--font-family--lora: Lora;--wp--preset--font-family--merriweather: Merriweather;--wp--preset--font-family--montserrat: Montserrat;--wp--preset--font-family--newsreader: Newsreader;--wp--preset--font-family--nunito: Nunito;--wp--preset--font-family--open-sans: 'Open Sans';--wp--preset--font-family--overpass: Overpass;--wp--preset--font-family--petrona: Petrona;--wp--preset--font-family--piazzolla: Piazzolla;--wp--preset--font-family--playfair-display: 'Playfair Display';--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans';--wp--preset--font-family--poppins: Poppins;--wp--preset--font-family--raleway: Raleway;--wp--preset--font-family--roboto-slab: 'Roboto Slab';--wp--preset--font-family--roboto: Roboto;--wp--preset--font-family--rubik: Rubik;--wp--preset--font-family--sora: Sora;--wp--preset--font-family--source-sans-pro: 'Source Sans Pro';--wp--preset--font-family--source-serif-pro: 'Source Serif Pro';--wp--preset--font-family--space-mono: 'Space Mono';--wp--preset--font-family--texturina: Texturina;--wp--preset--font-family--work-sans: 'Work Sans';--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+</style>
+<link rel='stylesheet' id='dyad-2-fonts-css' href='https://fonts-api.wp.com/css?family=Lato%3A400%2C400italic%2C700%2C700italic%7CNoto+Serif%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJyNj1EKwjAQRC9kXKpU6od4FEmTNaZNsqGbUHp70yJYsKh/MzDzmIExCkUhYUjgs4guGxsYOkxRqv7lwRMFuNmgwGDAwZYGb8u9Yt7BCpoe6JEh5hb0JLU4AKfJ4R+5koDWker/gc7bFrAYoyL/0fjxzZPOrhBHqw0mhkRRROKitteucAZJlJUy2cJZG3F30g7fqgOWf6ZIs5x927l09Zfq1NTVsWrOdfcEcjWeHQ==&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='print-css-5-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035i&cssminify=yes' type='text/css' media='print' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='https://s0.wp.com/_static/??-eJyNjcEKAjEMRH/ImpVVWQ/ip0hsQ9s1TYppEf9eV7yIFy/DPBjewL06r9JIGpTuKveYxWCmVtFfPwxFdYnQmQws4Y0ChvB41yxx7c1W8L/pnMWDqc/IjjWqfcGPrSUqr9+0hch6QV4Gp3Lc7KfDMIy7cZqfUUFJKQ==&cssminify=yes' type='text/css' media='all' />
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJyFjkEOwjAMBD9EGkELFQfEW6BxkSPHjhwH6O+bSnDgxHVnR7v+ld0kbMDmY/FJ7kjgagG9PVrmkGfpYtn5356SuazyXr4MeaIaoGwwYDH/BA6iG8pCy4xErQNqXUL+Jym07fbARJ1WNkzw0a7psj+N4/HcH4Y+rk0GRX0='></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<script crossorigin='anonymous' src='https://s0.wp.com/wp-content/plugins/gutenberg-core/v16.2.1/build/vendors/inert-polyfill.min.js?m=1689267665i&#038;ver=6.3-alpha-56011' id='wp-inert-polyfill-js'></script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?m=1666876734i'></script>
+<script crossorigin='anonymous' src='https://s0.wp.com/wp-content/plugins/gutenberg-core/v16.2.1/build/hooks/index.min.js?m=1689267665i&#038;ver=3aee234ea7807d8d70bc' id='wp-hooks-js'></script>
+<script crossorigin='anonymous' src='https://s0.wp.com/wp-content/plugins/gutenberg-core/v16.2.1/build/i18n/index.min.js?m=1689267665i&#038;ver=5baa98e4345eccc97e24' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"10853858","siteURL":"https:\/\/wolfsgamingblog.com","xhrURL":"https:\/\/wolfsgamingblog.com\/wp-admin\/admin-ajax.php","nonce":"077260c3f1","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar"}};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJyFjtEKwjAMRX/ILkymzAfxU6RrQ+lsk9qmDv/eTbbhmxAIuRxuDkxJGSZBEohVpVCdpwIjStLmsd4QmWnL7i8kyxl0FY5axJud1qWgFBiqDxZ825MKrC3mZiwHmB95MqFanOvneVbM73U10dNfSEXvshb8hTf1IbDb5SfOVtuiTFiEvkUmJkVMytm02NzitT33p/Z46bpu/ABgzmCb'></script>
+<script type='text/javascript'>
+wp.jpI18nLoader.state = {"baseUrl":"https://widgets.wp.com/languages/","locale":"en_US","domainMap":{"jetpack-action-bar":"plugins/jetpack","jetpack-admin-ui":"plugins/jetpack","jetpack-assets":"plugins/jetpack","jetpack-backup-pkg":"plugins/jetpack","jetpack-blaze":"plugins/jetpack","jetpack-boost-core":"plugins/jetpack","jetpack-boost-speed-score":"plugins/jetpack","jetpack-compat":"plugins/jetpack","jetpack-config":"plugins/jetpack","jetpack-connection":"plugins/jetpack","jetpack-forms":"plugins/jetpack","jetpack-google-fonts-provider":"plugins/jetpack","jetpack-idc":"plugins/jetpack","jetpack-image-cdn":"plugins/jetpack","jetpack-import":"plugins/jetpack","jetpack-ip":"plugins/jetpack","jetpack-jitm":"plugins/jetpack","jetpack-lazy-images":"plugins/jetpack","jetpack-licensing":"plugins/jetpack","jetpack-my-jetpack":"plugins/jetpack","jetpack-password-checker":"plugins/jetpack","jetpack-plugins-installer":"plugins/jetpack","jetpack-post-list":"plugins/jetpack","jetpack-publicize-pkg":"plugins/jetpack","jetpack-search-pkg":"plugins/jetpack","jetpack-stats":"plugins/jetpack","jetpack-stats-admin":"plugins/jetpack","jetpack-sync":"plugins/jetpack","jetpack-videopress-pkg":"plugins/jetpack","jetpack-waf":"plugins/jetpack","jetpack-wordads":"plugins/jetpack"},"domainPaths":{"jetpack-action-bar":"jetpack_vendor/automattic/jetpack-action-bar/","jetpack-admin-ui":"jetpack_vendor/automattic/jetpack-admin-ui/","jetpack-assets":"jetpack_vendor/automattic/jetpack-assets/","jetpack-backup-pkg":"jetpack_vendor/automattic/jetpack-backup/","jetpack-blaze":"jetpack_vendor/automattic/jetpack-blaze/","jetpack-boost-core":"jetpack_vendor/automattic/jetpack-boost-core/","jetpack-boost-speed-score":"jetpack_vendor/automattic/jetpack-boost-speed-score/","jetpack-compat":"jetpack_vendor/automattic/jetpack-compat/","jetpack-config":"jetpack_vendor/automattic/jetpack-config/","jetpack-connection":"jetpack_vendor/automattic/jetpack-connection/","jetpack-forms":"jetpack_vendor/automattic/jetpack-forms/","jetpack-google-fonts-provider":"jetpack_vendor/automattic/jetpack-google-fonts-provider/","jetpack-idc":"jetpack_vendor/automattic/jetpack-identity-crisis/","jetpack-image-cdn":"jetpack_vendor/automattic/jetpack-image-cdn/","jetpack-import":"jetpack_vendor/automattic/jetpack-import/","jetpack-ip":"jetpack_vendor/automattic/jetpack-ip/","jetpack-jitm":"jetpack_vendor/automattic/jetpack-jitm/","jetpack-lazy-images":"jetpack_vendor/automattic/jetpack-lazy-images/","jetpack-licensing":"jetpack_vendor/automattic/jetpack-licensing/","jetpack-my-jetpack":"jetpack_vendor/automattic/jetpack-my-jetpack/","jetpack-password-checker":"jetpack_vendor/automattic/jetpack-password-checker/","jetpack-plugins-installer":"jetpack_vendor/automattic/jetpack-plugins-installer/","jetpack-post-list":"jetpack_vendor/automattic/jetpack-post-list/","jetpack-publicize-pkg":"jetpack_vendor/automattic/jetpack-publicize/","jetpack-search-pkg":"jetpack_vendor/automattic/jetpack-search/","jetpack-stats":"jetpack_vendor/automattic/jetpack-stats/","jetpack-stats-admin":"jetpack_vendor/automattic/jetpack-stats-admin/","jetpack-sync":"jetpack_vendor/automattic/jetpack-sync/","jetpack-videopress-pkg":"jetpack_vendor/automattic/jetpack-videopress/","jetpack-waf":"jetpack_vendor/automattic/jetpack-waf/","jetpack-wordads":"jetpack_vendor/automattic/jetpack-wordads/"}};
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wolfsgamingblog.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='https://wp.me/JxAe' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="WGB, Home of AWESOME Reviews" />
+<meta property="og:description" content="Reviewing all the coolest, newest games for Xbox, Playstation, Switch &amp; PC!" />
+<meta property="og:url" content="https://wolfsgamingblog.com/" />
+<meta property="og:site_name" content="WGB, Home of AWESOME Reviews" />
+<meta property="og:image" content="https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=200" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:creator" content="@wolfsgamingblog" />
+<meta name="twitter:site" content="@wolfsgamingblog" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel='openid.server' href='https://wolfsgamingblog.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://wolfsgamingblog.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://wolfsgamingblog.com/osd.xml" title="WGB, Home of AWESOME Reviews" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="WGB, Home of AWESOME Reviews" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Reviewing all the coolest, newest games for Xbox, Playstation, Switch &amp; PC!" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://wolfsgamingblog.com/feed/;icon-uri=https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="description" content="Reviewing all the coolest, newest games for Xbox, Playstation, Switch &amp; PC!" />
+		<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 0, 'ht': 1, 'tn': 'dyad-2', 'uloggedin': 0, 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': false, 'ad': { 'label': { 'text': 'Advertisements' }, 'reportAd': { 'text': 'Report this ad' } }, 'disabled_slot_formats': [], 'siteid': 10853858 };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script>	<script>
+		var sas_fallback = sas_fallback || [];
+		sas_fallback.push(
+			{ tag: "&lt;div id=&quot;atatags-108538581-64b6471b5f26f&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-108538581-64b6471b5f26f\',location: 120,formFactor: \'001\',label: {text: \'Advertisements\',},creative: {reportAd: {text: \'Report this ad\',},privacySettings: {text: \'Privacy\',}}});});&lt;/script&gt;", type: 'belowpost' },
+			{ tag: "&lt;div id=&quot;atatags-108538581-{{unique_id}}&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-108538581-{{unique_id}}\',location: 310,formFactor: \'001\',label: {text: \'Advertisements\',},creative: {reportAd: {text: \'Report this ad\',},privacySettings: {text: \'Privacy\',}}});});&lt;/script&gt;", type: 'inline' }
+		);
+	</script><style type="text/css" id="custom-colors-css">
+	blockquote,
+	blockquote cite,
+	.comments-area-wrapper blockquote,
+	.comments-area-wrapper blockquote cite {
+		color: inherit;
+	}
+
+	.site-header,
+	.is-scrolled .site-header,
+	.home .site-header,
+	.blog .site-header {
+		background: transparent;
+		text-shadow: none;
+	}
+
+	#page .site-header:before {
+		bottom: 0;
+		content: "";
+		display: block;
+		left: 0;
+		opacity: 0.8;
+		position: absolute;
+		right: 0;
+		top: 0;
+		z-index: 0;
+	}
+
+	#site-navigation ul ul a {
+		color: #fff;
+	}
+
+	.banner-featured {
+		text-shadow: none;
+	}
+
+	.posts .entry-inner:before {
+		opacity: 0.3;
+	}
+
+	.posts .hentry:not(.has-post-thumbnail) .entry-inner:after {
+			border-color: #ddd;
+	}
+
+	.posts .hentry:not(.has-post-thumbnail):before {
+		border-color: #e1e1e1;
+	}
+
+	.posts .hentry .link-more a {
+		opacity: 1.0;
+		-webkit-transition: opacity 0.3s;
+		transition: opacity 0.3s;
+	}
+
+	.posts .hentry:hover .link-more a {
+		opacity: 0.75;
+	}
+
+	.posts .edit-link a {
+		color: #ccc;
+	}
+
+	.posts .edit-link a:hover {
+		color: #aaa;
+	}
+
+	.widget thead tr,
+	.widget tr:hover {
+		background-color: rgba(0,0,0,0.1);
+	}
+
+	@media only screen and (max-width: 1200px) {
+		.site-header:before,
+		.is-scrolled .site-header:before {
+			opacity: 1.0;
+		}
+
+		.has-post-thumbnail .entry-header .entry-meta .cat-links {
+			background-color: transparent;
+		}
+
+		.has-post-thumbnail.is-singular:not(.home) .entry-header .cat-links a,
+		.has-post-thumbnail.is-singular:not(.home) .entry-header .cat-links {
+    		color: #6a6c6e !important;
+		}
+	}
+
+	@media only screen and (max-width: 960px) {
+		#site-navigation ul a,
+		#site-navigation ul ul a {
+			color: inherit;
+		}
+
+		.site-header #site-navigation ul ul li {
+			background-color: transparent;
+		}
+	}
+
+.link-more a { color: #8E8E8E;}
+.site-header:before,
+		.is-singular .entry-media-thumb,
+		#commentform input[type="submit"],
+		#infinite-handle,
+		.posts-navigation,
+		.site-footer,
+		.site-header-cart .widget_shopping_cart_content,
+		.widget_shopping_cart .mini_cart_item .remove:hover { background-color: #e60505;}
+.site-header-cart .widget_shopping_cart:before { border-bottom-color: #e60505;}
+.bypostauthor .comment-author:before { color: #e60505;}
+#site-navigation ul ul li { background-color: #E60505;}
+#site-navigation ul ul:before { border-bottom-color: #E60505;}
+#site-navigation ul ul ul:before { border-right-color: #E60505;}
+.posts .entry-inner:before { color: #E00404;}
+.posts,
+		.posts .entry-media,
+		.comments-area-wrapper,
+		.milestone-widget .milestone-header,
+		.footer-bottom-info { background-color: #CC0404;}
+.milestone-widget .milestone-countdown { border-color: #CC0404;}
+.milestone-widget .milestone-countdown,
+		.milestone-widget .milestone-message { color: #E60505;}
+.site-header #site-navigation ul li { border-color: #B30303;}
+.comment-author.vcard cite { color: #FFFFFF;}
+.bypostauthor .comment-author:before { background-color: #FFFFFF;}
+.comment-meta,
+		.comment .reply:before,
+		.comment .reply a { color: #FAEAEA;}
+.comment-meta { border-bottom-color: #F68888;}
+#infinite-handle span button,
+		#infinite-handle span button:hover,
+		#infinite-handle span button:focus,
+		.posts-navigation a,
+		.widget,
+		.site-footer { color: #FFFFFF;}
+.comments-area-wrapper { color: #FFFFFF;}
+.widget_search ::-webkit-input-placeholder { color: #C9CECD;}
+.widget_search :-moz-placeholder { color: #C9CECD;}
+.widget_search ::-moz-placeholder { color: #C9CECD;}
+.widget_search :-ms-input-placeholder { color: #C9CECD;}
+.site-header,
+		#site-navigation a,
+		.menu-toggle,
+		.comments-title .add-comment-link,
+		.comments-title,
+		.comments-title a,
+		.comments-area-wrapper,
+		.comments-area-wrapper h1,
+		.comments-area-wrapper h2,
+		.comments-area-wrapper h3,
+		.comments-area-wrapper h4,
+		.comments-area-wrapper h5,
+		.comments-area-wrapper h6,
+		.comment-body pre,
+		.comment-footer .author.vcard,
+		.comment-footer,
+		#commentform input[type="submit"],
+		.widget h1,
+		.widget h2,
+		.widget h3,
+		.widget h4,
+		.widget h5,
+		.widget h6,
+		.widget a,
+		.widget button,
+		.widget_search input,
+		.widget input[type="submit"],
+		.widget-area select,
+		.widget_flickr #flickr_badge_uber_wrapper a:hover,
+		.widget_flickr #flickr_badge_uber_wrapper a:link,
+		.widget_flickr #flickr_badge_uber_wrapper a:active,
+		.widget_flickr #flickr_badge_uber_wrapper a:visited,
+		.widget_goodreads div[class^="gr_custom_each_container"],
+		.milestone-header { color: #FFFFFF;}
+.widget ul li,
+		.widget_jp_blogs_i_follow ol li { border-top-color: #2A2C2B;}
+.comment-footer,
+		.widget ul li,
+		.widget_jp_blogs_i_follow ol li { border-bottom-color: #2A2C2B;}
+.comments-title,
+		.comments-area-wrapper blockquote,
+		#commentform input[type="text"],
+		#commentform input[type="email"],
+		#commentform input[type="url"],
+		#commentform textarea,
+		.widget .tagcloud a,
+		.widget.widget_tag_cloud a,
+		.wp_widget_tag_cloud a,
+		.widget button,
+		.widget input[type="submit"],
+		.widget table,
+		.widget th,
+		.widget td,
+		.widget input,
+		.widget select,
+		.widget textarea { border-color: #2A2C2B;}
+.site-banner-header .banner-featured { color: #ECEDED;}
+.error404-widgets .widget a { color: #2A2C2B;}
+.error404 .entry-content .widget ul li { color: #2A2C2B;}
+.site-banner-header .banner-featured,
+		.banner-custom-header .site-banner-header h1:before,
+		.has-post-thumbnail .entry-meta .cat-links,
+		.widget_shopping_cart .mini_cart_item .remove,
+		.woocommerce-tabs ul.tabs li.active a,
+		.widget_price_filter .ui-slider .ui-slider-handle,
+		.widget_price_filter .ui-slider .ui-slider-range,
+		.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger { background-color: #c71704;}
+.button,
+		button,
+		input[type="submit"],
+		.onsale { background-color: #C71704;}
+.button,
+		button,
+		input[type="submit"],
+		table.shop_table td.actions .coupon .button { border-color: #c71704;}
+.single-product div.product .price .amount,
+		.star-rating span:before,
+		p.stars:hover a:before,
+		p.stars.selected a.active:before,
+		p.stars.selected a:not(.active):before { color: #c71704;}
+.error404 .entry-content .widget ul li { border-color: #C71704;}
+pre:before,
+		.link-more a,
+		.posts .hentry:hover .link-more a,
+		.is-singular .entry-inner:after,
+		.error404 .entry-inner:after,
+		.page-template-eventbrite-index .page-header:after,
+		.single-event .entry-header:after,
+		.is-singular .post-navigation .nav-links:after,
+		.single-product div.product:after,
+		.single-product .product section:first-of-type::after,
+		.product .button,
+		ul.products li.product .button { background-color: #D9CB9E;}
+.has-post-thumbnail.is-singular:not(.home) .entry-header .cat-links a { color: #D9CB9E;}
+</style>
+<link rel="icon" href="https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=270" />
+</head>
+
+<body class="home blog wp-custom-logo wp-embed-responsive jps-theme-pub/dyad-2 customizer-styles-applied group-blog has-post-thumbnail no-js highlander-enabled highlander-light">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+			<a href="https://wolfsgamingblog.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="300" height="300" src="https://wolfsgamingblog.files.wordpress.com/2020/11/cropped-74b12-cropped-cropped-wolfsgamingblog-logo-1.jpg" class="custom-logo" alt="WGB, Home of AWESOME Reviews" decoding="async" srcset="https://wolfsgamingblog.files.wordpress.com/2020/11/cropped-74b12-cropped-cropped-wolfsgamingblog-logo-1.jpg 300w, https://wolfsgamingblog.files.wordpress.com/2020/11/cropped-74b12-cropped-cropped-wolfsgamingblog-logo-1.jpg?w=150&amp;h=150 150w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="62700" data-permalink="https://wolfsgamingblog.com/cropped-cropped-wolfsgamingblog-logo-jpg-2/" data-orig-file="https://wolfsgamingblog.files.wordpress.com/2020/11/cropped-74b12-cropped-cropped-wolfsgamingblog-logo-1.jpg" data-orig-size="300,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-cropped-wolfsgamingblog-logo.jpg" data-image-description="&lt;p&gt;https://wolfsgamingblog.files.wordpress.com/2020/11/cropped-74b12-cropped-cropped-wolfsgamingblog-logo-1.jpg&lt;/p&gt;
+" data-image-caption="" data-medium-file="https://wolfsgamingblog.files.wordpress.com/2020/11/cropped-74b12-cropped-cropped-wolfsgamingblog-logo-1.jpg?w=300" data-large-file="https://wolfsgamingblog.files.wordpress.com/2020/11/cropped-74b12-cropped-cropped-wolfsgamingblog-logo-1.jpg?w=300" /></a>			<h1 class="site-title">
+				<a href="https://wolfsgamingblog.com/" rel="home">
+					WGB, Home of AWESOME Reviews				</a>
+			</h1>
+			<p class="site-description">Reviewing all the coolest, newest games for Xbox, Playstation, Switch &amp; PC!</p>
+		</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+			<div class="primary-menu"><ul id="primary-menu" class="menu"><li id="menu-item-20215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20215"><a href="https://wolfsgamingblog.com/about/">About</a></li>
+<li id="menu-item-20216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20216"><a href="https://wolfsgamingblog.com/contact/">Contact</a></li>
+<li id="menu-item-55543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55543"><a href="https://wolfsgamingblog.com/support-me-2/">Support The Site</a></li>
+<li id="menu-item-20220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20220"><a href="https://wolfsgamingblog.com/category/reviews/">Reviews</a>
+<ul class="sub-menu">
+	<li id="menu-item-21035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21035"><a href="https://wolfsgamingblog.com/category/videogame-reviews/">Videogame Reviews</a></li>
+	<li id="menu-item-21029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21029"><a href="https://wolfsgamingblog.com/category/tech-reviews/">Tech Reviews</a></li>
+	<li id="menu-item-21030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21030"><a href="https://wolfsgamingblog.com/category/boardgame-reviews/">Boardgame Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-20218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20218"><a href="https://wolfsgamingblog.com/category/previews/">Interviews</a></li>
+<li id="menu-item-20221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20221"><a href="https://wolfsgamingblog.com/the-setup/">The Setup</a></li>
+</ul></div>		</nav>
+
+	</header><!-- #masthead -->
+
+	<div class="site-inner">
+
+					<div class="featured-content">
+				
+
+<div id="site-banner" class="site-banner enable-slider">
+
+	<div class="site-banner-inner">
+
+		
+
+<article data-id="post-63227" class="post-63227 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-amazon-prime-day tag-deals tag-featured tag-gaming tag-playstation tag-switch tag-xbox fallback-thumbnail">
+
+	
+	<div class="site-banner-media">
+		
+		<div class="site-banner-thumbnail" title="Some of the best Prime Day gaming deals" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/primeday.jpg?w=1800&#038;h=720&#038;crop=1);"></div>
+	</div><!-- .site-banner-media -->
+
+	
+	<div class="site-banner-header">
+		<span class="banner-featured">Featured</span>
+		<h1 class="entry-title">
+			<a href="https://wolfsgamingblog.com/2023/07/11/some-of-the-best-prime-day-gaming-deals/" rel="bookmark">
+				Some of the best Prime Day gaming deals			</a>
+		</h1>
+		<p>Amazon Prime Day is upon us once again and with it comes plenty of cool deals. Below, you&#8217;ll find a selection of what I think are some of the best gaming deals available in the Amazon prime Day sale.</p>
+	</div><!-- .site-banner-header -->
+</article>
+
+<article data-id="post-63066" class="post-63066 post type-post status-publish format-standard has-post-thumbnail hentry category-reviews category-videogame-reviews tag-aew tag-aew-fight-forever tag-featured tag-pc tag-playstation tag-review tag-switch tag-xbox tag-yukes fallback-thumbnail">
+
+	
+	<div class="site-banner-media">
+		
+		<div class="site-banner-thumbnail" title="AEW: Fight Forever is battling for a mid-card title &#8211; Review" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/aew-fight-forever-header.jpg?w=1800&#038;h=720&#038;crop=1);"></div>
+	</div><!-- .site-banner-media -->
+
+	
+	<div class="site-banner-header">
+		<span class="banner-featured">Featured</span>
+		<h1 class="entry-title">
+			<a href="https://wolfsgamingblog.com/2023/07/05/aew-fight-forever-is-battling-for-a-mid-card-title-review/" rel="bookmark">
+				AEW: Fight Forever is battling for a mid-card title &#8211; Review			</a>
+		</h1>
+		<p>The development of AEW: Fight Forever is an interesting tale. Yukes are the former developers of the WWE games, creating a staggering amount of wrestling titles over the years under several publishers. That includes releasing at least one WWE/WWF game per year from 2000-2018. But in 2019, 2K Sports announced it was shifting the WWE license away from Yukes and over to Visual Concepts. Earlier that year, Yukes had implied some tension between their company and 2K, and announced plans to develop a new wrestling IP in order to reinvigorate its staff. As a result, Yukes and 2K parted ways.</p>
+	</div><!-- .site-banner-header -->
+</article>
+
+<article data-id="post-62826" class="post-62826 post type-post status-publish format-standard has-post-thumbnail hentry category-opinion-piece tag-feature-2 tag-featured tag-playstation-5 tag-shadow-gambit-the-cursed-crew tag-xbox fallback-thumbnail">
+
+	
+	<div class="site-banner-media">
+		
+		<div class="site-banner-thumbnail" title="Shadow Gambit: The Cursed Crew is the Pirates of the Caribbean Game I always wanted" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/06/sg_keyart_3840x2160_nologo.png?w=1800&#038;h=720&#038;crop=1);"></div>
+	</div><!-- .site-banner-media -->
+
+	
+	<div class="site-banner-header">
+		<span class="banner-featured">Featured</span>
+		<h1 class="entry-title">
+			<a href="https://wolfsgamingblog.com/2023/06/19/shadow-gambit-the-cursed-crew-is-the-pirates-of-the-caribbean-game-i-always-wanted/" rel="bookmark">
+				Shadow Gambit: The Cursed Crew is the Pirates of the Caribbean Game I always wanted			</a>
+		</h1>
+		<p>Pirates of the Caribbean: Curse of the Black Pearl is one of my favourite movies. I&#8217;ve watched it countless times, and a big part of the reason why is the mixture of pirates and the supernatural. The adventure, the piracy and the magic all click with me, which is why Shadow&#8217;s Gambit: The Cursed Crew from Mimimi is an incredibly exciting prospect for me. The developers know how to make excellent strategy games, and now they are combining those talents with a gorgeous pirate aesthetic that immediately makes me think of an amped-up Pirates of the Caribbean adventure.</p>
+	</div><!-- .site-banner-header -->
+</article>
+
+<article data-id="post-62795" class="post-62795 post type-post status-publish format-standard has-post-thumbnail hentry category-opinion-piece tag-bulwark-falconeer-chronicles tag-feature-2 tag-featured tag-impressions tag-pc fallback-thumbnail">
+
+	
+	<div class="site-banner-media">
+		
+		<div class="site-banner-thumbnail" title="Bulwark: The Falconeer Chronicles demo mpressions" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/06/bulwark-keyart-1900x2533-portrait-nologo.jpg?w=1800&#038;h=720&#038;crop=1);"></div>
+	</div><!-- .site-banner-media -->
+
+	
+	<div class="site-banner-header">
+		<span class="banner-featured">Featured</span>
+		<h1 class="entry-title">
+			<a href="https://wolfsgamingblog.com/2023/06/16/bulwark-the-falconeer-chronicles-early-impressions/" rel="bookmark">
+				Bulwark: The Falconeer Chronicles demo mpressions			</a>
+		</h1>
+		<p>Tomas Sala, the man behind 2020&#8217;s The Falconeer, is back and once again working by himself to develop a new and exciting project set within the same universe. Bulwark: Falconeer Chronicles is a rather different beast, however, a blend of light city-building, exploration, generative elements and more. There&#8217;s nothing else quite like it, a testament to Sala&#8217;s seemingly endless imagination and creativity.</p>
+	</div><!-- .site-banner-header -->
+</article>
+
+<article data-id="post-46458" class="post-46458 post type-post status-publish format-standard has-post-thumbnail hentry category-opinion-piece tag-featured tag-gears-of-war tag-microsoft tag-opinion tag-ranking tag-worst-to-best tag-xbox mentions-all fallback-thumbnail">
+
+	
+	<div class="site-banner-media">
+		
+		<div class="site-banner-thumbnail" title="The best Gears of War games, ranked" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2020/11/33958-apps.60214.13510798884671596.04227bb2-4efd-4b7d-9781-e52626ebb47f.79570f08-a10f-4d96-8ad6-90c35c3b5cce.jpg?w=1800&#038;h=720&#038;crop=1);"></div>
+	</div><!-- .site-banner-media -->
+
+	
+	<div class="site-banner-header">
+		<span class="banner-featured">Featured</span>
+		<h1 class="entry-title">
+			<a href="https://wolfsgamingblog.com/2023/06/08/ranking-the-gears-of-war-games-from-worst-to-best/" rel="bookmark">
+				The best Gears of War games, ranked			</a>
+		</h1>
+		<p>With the Xbox showcase just hours away, we might get a glimpse into the future of the Gears series. Until then, lets take a look backwards with my ranking of the best Gears of War games, updated to include Gears Tactics.</p>
+	</div><!-- .site-banner-header -->
+</article>
+
+<article data-id="post-62550" class="post-62550 post type-post status-publish format-standard has-post-thumbnail hentry category-reviews category-videogame-reviews tag-daedalic tag-feature-2 tag-featured tag-pc tag-playstation tag-review tag-the-lord-of-the-rings-gollum tag-xbox fallback-thumbnail">
+
+	
+	<div class="site-banner-media">
+		
+		<div class="site-banner-thumbnail" title="The Lord of the Rings: Gollum is a nasty little game &#8211; Review" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/06/lotr-gollum-9.jpg?w=1800&#038;h=720&#038;crop=1);"></div>
+	</div><!-- .site-banner-media -->
+
+	
+	<div class="site-banner-header">
+		<span class="banner-featured">Featured</span>
+		<h1 class="entry-title">
+			<a href="https://wolfsgamingblog.com/2023/06/07/the-lord-of-the-rings-gollum-is-a-nasty-little-game-review/" rel="bookmark">
+				The Lord of the Rings: Gollum is a nasty little game &#8211; Review			</a>
+		</h1>
+		<p>The Lord of the Rings: Gollum has taken a beating from professional critics and gamers alike, becoming the worst reviewed game of the year. But does it deserve it? </p>
+	</div><!-- .site-banner-header -->
+</article>
+	</div><!-- .site-banner-inner -->
+
+</div><!-- #site-banner -->
+
+
+			</div>
+		
+		<div id="content" class="site-content">
+
+	<main id="primary" class="content-area" role="main">
+
+		
+			<div id="posts" class="posts">
+
+								
+					
+
+<article id="post-63402" class="post-63402 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-game-pass tag-game-pass-core tag-microsoft tag-news fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/game-pass-core.jpg?w=630&#038;h=840&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/game-pass-core.jpg?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/17/xbox-games-with-gold-is-ending-will-be-replaced-with-game-pass-core/" rel="bookmark">Xbox Live Gold is ending, will be replaced with Game Pass Core</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Xbox Games with Gold has been limping along for a while now, each months offering of new games becoming less and less noteworthy. Really, the only reason to stay subscribed was to access multiplayer gaming. It looks like the reason Games with Gold has been less than impressive recently is because Microsoft was planning to take it out behind the shed, pull out a shotgun and blow its head off. Today, Microsoft has announced that Xbox Games with Gold will officially cease to exist on the 1st of September.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/17/xbox-games-with-gold-is-ending-will-be-replaced-with-game-pass-core/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63395" class="post-63395 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-activision-blizzard-2 tag-call-of-duty tag-microsoft tag-news tag-playstation tag-xbox fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/cod.webp?w=630&#038;h=840&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/cod.webp?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/17/microsoft-sony-enter-deal-to-bring-call-of-duty-to-playstation/" rel="bookmark">Microsoft &amp; Sony enter deal to bring Call of Duty to PlayStation</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>The possibility that Microsoft would make Call of Duty exclusive to the Xbox was always a stretch but was still an understandable fear. That fear has now been put to rest as Microsoft and Sony have entered into a &#8220;binding agreement&#8221; to ensure that the long-running FPS will continue to come to PlayStation.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/17/microsoft-sony-enter-deal-to-bring-call-of-duty-to-playstation/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63386" class="post-63386 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-activision-blizzard-2 tag-cma tag-ftc tag-microsoft tag-news tag-xbox fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/linakhanftc.jpeg?w=630&#038;h=840&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/linakhanftc.jpeg?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/15/ninth-court-rejects-ftcs-appeal-microsoft-activision-deal-can-now-go-ahead/" rel="bookmark">Ninth Court rejects FTC&#8217;s appeal, Microsoft-Activision deal can now go ahead</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Microsoft&#8217;s plans for industry domination continue to grab the headlines. Now, only the United Kingdom&#8217;s Competition and Markets Authority (CMA) stands in the way of Microsoft&#8217;s acquisition of Activision Blizzard. However, Microsoft does not need the approval of the CMA and can actually close the deal as it stands.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/15/ninth-court-rejects-ftcs-appeal-microsoft-activision-deal-can-now-go-ahead/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63379" class="post-63379 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-blizzard tag-news tag-starcraft-3 fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/starcraft-2.jpg?w=630&#038;h=840&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/starcraft-2.jpg?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/14/jez-corden-reckons-starcraft-3-is-real/" rel="bookmark">Jez Corden reckons Starcraft 3 is real</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Jez Corden, editor of Windows Central, believes that Starcraft 3 is very much real, at least that&#8217;s what he says during a drunken Twitter AMA session last week.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/14/jez-corden-reckons-starcraft-3-is-real/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63369" class="post-63369 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-activision-blizzard-2 tag-ftc tag-industry tag-microsoft tag-news fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/linakhanftc.jpeg?w=630&#038;h=840&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/linakhanftc.jpeg?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/14/the-ftc-is-appealing-the-microsoft-activision-deal-for-a-second-time/" rel="bookmark">The FTC is appealing the Microsoft-Activision deal for a second time</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>A short while ago the Federal Trade Commission lost its legal battle against Microsoft where it attempted to get Microsoft&#8217;s acquisition of Activision Blizzard stopped so that it could continue looking into the deal. The FTC attempted to appeal the decision but US District Judge Jacqueline Scott Corley, who presided over the case, promptly rejected the notion.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/14/the-ftc-is-appealing-the-microsoft-activision-deal-for-a-second-time/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63358" class="post-63358 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-lucid-games tag-news tag-newsm tag-playstation fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/destruction-allstars-lucid-games.webp?w=630&#038;h=595&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/destruction-allstars-lucid-games.webp?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/14/lucid-games-has-been-bought-by-tencent/" rel="bookmark">Lucid Games has been bought by Tencent</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Gobble, Gobble. That&#8217;s the sound that Chinese mega-company Tencent presumably made as it snapped up Lucid Games,  absorbing it into one of its multiple subsidiaries. In this specific case, the subsidiary is LightSpeed Studios that describes its vision as being &#8220;To create the Lightspeed Universe, the ecosystem that connects players and developers around the world.&#8221; </p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/14/lucid-games-has-been-bought-by-tencent/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63348" class="post-63348 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-edge tag-news tag-pc tag-playstation tag-xbox fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/ff16.webp?w=630&#038;h=840&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/ff16.webp?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/13/edge-387-review-scores/" rel="bookmark">Edge #387 Review scores</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>The latest issue of Edge magazine has begun to drop through subscribers&#8217; letterboxes. Although print is dying a slow death, Edge magazine continues to be the only magazine I continue to support thanks to its sharp writing and interesting reviews.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/13/edge-387-review-scores/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63333" class="post-63333 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-activision-blizzard-2 tag-deal tag-ftc tag-microsoft tag-news fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2020/11/33983-xboxseriesx-1.jpg?w=630&#038;h=667&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2020/11/33983-xboxseriesx-1.jpg?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/11/microsoft-has-won-its-case-against-the-ftc/" rel="bookmark">Microsoft has won its case against the FTC</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Microsoft has won the legal battle against the Federal Trade Committee. The FTC was attempting to get a temporary injunction to block Microsoft&#8217;s ongoing plans to purchase Activision Blizzard. The injunction was to give the FTC more time to investigate the matter, but today the court ruled in Microsoft&#8217;s favour, removing a substantial obstacle from their path.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/11/microsoft-has-won-its-case-against-the-ftc/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63186" class="post-63186 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-keyboards tag-mice tag-pc tag-prime-day fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/primeday.jpg?w=630&#038;h=840&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/primeday.jpg?w=680&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/11/a-handfulof-the-best-pc-deals-from-prime-day/" rel="bookmark">A handful of the best PC deals from Prime Day</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Amazon&#8217;s yearly Prime Day event is upon us and I wanted to take a minute to highlight a few PC orientated deals. There&#8217;s a couple of really good bargains out there, especially on mice, keyboards and a Logitech steering wheel.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/11/a-handfulof-the-best-pc-deals-from-prime-day/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-63176" class="post-63176 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-metroid-prime tag-nintendo tag-switch fallback-thumbnail">
+
+				<div class="entry-media" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/71bdjkegpl._ac_sy500_.jpg?w=309&#038;h=500&#038;crop=1);">
+			<div class="entry-media-thumb" style="background-image: url(https://wolfsgamingblog.files.wordpress.com/2023/07/71bdjkegpl._ac_sy500_.jpg?w=309&#038;h=455&#038;crop=1); "></div>
+		</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://wolfsgamingblog.com/2023/07/11/get-metroid-prime-remastered-for-22/" rel="bookmark">Get Metroid Prime Remastered for £22</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Metroid Prime Remastered is a masterful remaster of one of the greatest games of all time and you can currently get it for a low, low price of just £22 at Amazon.co.uk.</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://wolfsgamingblog.com/2023/07/11/get-metroid-prime-remastered-for-22/"></a>
+	</article><!-- #post-## -->
+
+				
+			</div><!-- .posts -->
+
+			
+	<nav class="navigation posts-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://wolfsgamingblog.com/page/2/" >Older posts</a></div></div>
+	</nav>
+		
+	</main><!-- #main -->
+
+
+		</div><!-- #content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+				<div class="widget-area widgets-four" role="complementary">
+					<div class="grid-container">
+						<aside id="jetpack-search-filters-4" class="widget jetpack-filters widget_search">			<div id="jetpack-search-filters-4-wrapper" class="jetpack-instant-search-wrapper">
+		<div class="jetpack-search-form"><form role="search" method="get" class="search-form" action="https://wolfsgamingblog.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			<input type="hidden" name="orderby" value="" /><input type="hidden" name="order" value="" /></form></div></div></aside><aside id="rss-3" class="widget widget_rss"><h3 class="widget-title"><a class="rsswidget" href="https://anchor.fm/s/4fcfd470/podcast/rss" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473i" alt="RSS" /></a> <a class="rsswidget" href="https://wolfsgamingblog.com/" title="Reviews for Xbox, Playstation &amp; PC titles from an idiot who likes games but can barely remember to tie his shoes.
+
+Here you&#039;ll find narrated versions of all my reviews from www.wolfsgamingblog.com, plus unscripted Weekend Whammys where I just chat away about everything and anything.">The Official Wolf&#8217;s Gaming Podcast</a></h3><ul><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-19-God-of-War-on-PC--And-Mercury-Steam-Kinda-Suck-e19qufk' title='Welcome back friends, allies and comrades to the Wolf&#039;s Gaming Podcast. Its been a minute, but I&#039;m back again and talking about random bits of gaming news like how God of War is coming to PC, why Mercury Steam are jerks, whether Ubisoft will mess up Splinter Cell and more. Plus, I chat a bit about Halloween Kills! Read all my reviews over at https: [&hellip;]'>Wolf&#039;s Gaming Podcast ep.19: God of War on PC, And Mercury Steam Kinda Suck</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-18-UnMetal--Pathfinder-Wrath-of-the-Righteous--Hot-Wheels-e18mpp5' title='Welcome back to the Wolf&#039;s Gaming Podcast, the best podcast where a dude rambles about games for far too long! This time, I cover the games I&#039;m playing (UnMetal, Pathfinder &amp; Hot Wheels) and then tackle the news, including the GTA trilogy remaster, Sony buying even more studios, the big Nvidia leak and more. For a full list of all the games spo [&hellip;]'>Wolf&#039;s Gaming Podcast ep.18: UnMetal, Pathfinder: Wrath of the Righteous &amp; Hot Wheels</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-17-Playstation-Showcase--Epic-Loses-In-Apple-Legal-Battle-e17h3kd' title='Welcome back, friends. This week is a Sony heavy episode as I chat about the Playstation Showcase and everything that was shown there, plus the recent controversy over the new model of Playstation 5. Plus, the Epic vs Apple legal battles comes to a close (although Epic are already filing an appeal) and despite headlines from major sites, Epic came out worst. [&hellip;]'>Wolf&#039;s Gaming Podcast ep.17: Playstation Showcase &amp; Epic Loses In Apple Legal Battle</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-16-How-to-respond-to-Activision-Blizzard--and-what-the-Hell-is-up-with-Blue-Box-e16gtqn' title='Welcome back to the greatest videogame podcast with a wildly inconsistent upload schedule! This is the 16th episode and across its 45-minutes I&#039;ll be assaulting your ears via an assortment of topics. This week I discuss the story of Blue Box which continues to get odder and odder, what us as consumers can do when videogame companies let us down, why The [&hellip;]'>Wolf&#039;s Gaming Podcast ep.16: How to respond to Activision-Blizzard, and what the Hell is up with Blue Box?</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-15-Rambling-About-The-Steam-Deck-e153qad' title='Welcome back to the Wolf&#039;s Gaming Podcast, the best videogame podcast as voted for by my Mum! After missing a week I&#039;m back to ramble about how cool the Steam Deck could be! But I also chat about some VR games, why Nightwish is freaking awesome and more. For my reviews, you can go to www.wolfsgamingblog.com Podcast theme music by Transistor.fm. Lea [&hellip;]'>Wolf&#039;s Gaming Podcast ep.15: Rambling About The Steam Deck</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-14-Movie-Talk--Switch-OLED-e14bnjm' title='Welcome back my friends, to the 14th episode of the podcast. There wasn&#039;t heaps of news this week that really caught my attention, but of course, we do need to talk about the newly announced Switch OLED which has left the Internet feeling a little let-down. And there&#039;s a new Assasin&#039;s Creed to talk about, except this one might be a live servic [&hellip;]'>Wolf&#039;s Gaming Podcast ep.14: Movie Talk &amp; Switch OLED</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Mario-Golf-Super-Rush-Review--A-Rushed-Bogey-e1468ji' title='Welcome back. This is an experiment using a computer voice to produce an audio version of my written review for Mario Golf: Super Rush. You can find the written version below. This episode is also available as a blog post: https://wolfsgamingblog.com/2021/07/09/mario-golf-super-rush-review-a-rushed-bogey/ '>Mario Golf: Super Rush Review – A Rushed Bogey</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-13-Best-Games-of-2021-So-Far--Mario-Golf-Is-Lacking-e13u4qv' title='Welcome back folks, and despite what I say at the start of this episode this is actually the 13th episode of the Wolf&#039;s Gaming Podcast! This week I&#039;m jumping into the best games of 2021 thus far, which is a much smaller list than normal. Then it&#039;s time to hit the green to talk about how Mario Golf: Super Rush is lacking creativity where it rea [&hellip;]'>Wolf&#039;s Gaming Podcast ep.13: Best Games of 2021 So Far &amp; Mario Golf Is Lacking</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-12-How-To-Review-Remakes--Is-Kojima-Up-To-Something-Silent-Hill-Related-e13i3b2' title='Welcome back to the 12th episode of the podcast. This week I&#039;m talking about Alex Kidd in Miracle Land DX and the difficulties in reviewing remakes of old. And then I go on a lengthy rant about whether there&#039;s any truth behind the theory that Blue Box Studios, Hideo Kojima and Silent Hill might be related. Note: Since recording this the mystery has [&hellip;]'>Wolf&#039;s Gaming Podcast ep.12: How To Review Remakes &amp; Is Kojima Up To Something Silent Hill Related?</a></li><li><a class='rsswidget' href='https://podcasters.spotify.com/pod/show/wolfsgamingpod/episodes/Wolfs-Gaming-Podcast-ep-11-Was-E3-2021-A-Little-Lacking-e131tjt' title='Welcome back, folks, to the 11th episode of the Wolf&#039;s Gaming Podcast. This is the longest episode to date and is packed to the brim with me chatting about E3 2021. Microsoft came out looking strong, Nintendo revealed that Metroid Dread is actually real and actually coming out, 2K held a zoom meeting and Randy Pitchford harassed people on camera. Head o [&hellip;]'>Wolf&#039;s Gaming Podcast ep.11: Was E3 2021 A Little Lacking?</a></li></ul></aside><aside id="follow_button_widget-3" class="widget widget_follow_button_widget">
+		<a class="wordpress-follow-button" href="https://wolfsgamingblog.com" data-blog="10853858" data-lang="en" data-show-follower-count="true">Follow WGB, Home of AWESOME Reviews on WordPress.com</a>
+		<script type="text/javascript">(function(d){ window.wpcomPlatform = {"titles":{"timelines":"Embeddable Timelines","followButton":"Follow Button","wpEmbeds":"WordPress Embeds"}}; var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
+
+		</aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"><label for="subscribe-field">Email Subscription</label></h3>
+
+			<div class="wp-block-jetpack-subscriptions__container">
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				data-blog="10853858"
+				data-post_access_level="everybody"
+				id="subscribe-blog"
+			>
+				<p>Enter your Email address here to receive instant notification of new content! Also, it'll give me your soul. Just kidding!</p>
+<p>(No, I'm not)</p>
+				<p id="subscribe-email">
+					<label
+						id="subscribe-field-label"
+						for="subscribe-field"
+						class="screen-reader-text"
+					>
+						Email Address:					</label>
+
+					<input
+							type="email"
+							name="email"
+							
+							style="width: 95%; padding: 1px 10px"
+							placeholder="Email Address"
+							value=""
+							id="subscribe-field"
+							required
+						/>				</p>
+
+				<p id="subscribe-submit"
+									>
+					<input type="hidden" name="action" value="subscribe"/>
+					<input type="hidden" name="blog_id" value="10853858"/>
+					<input type="hidden" name="source" value="https://wolfsgamingblog.com/"/>
+					<input type="hidden" name="sub-type" value="widget"/>
+					<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="9f13c41169" />					<button type="submit"
+													class="wp-block-button__link"
+																	>
+						Give me your soul! (Subscribe)					</button>
+				</p>
+			</form>
+							<div class="wp-block-jetpack-subscriptions__subscount">
+					Join 1,727 other subscribers				</div>
+						</div>
+			
+</aside><aside id="top-posts-3" class="widget widget_top-posts"><h3 class="widget-title">What&#8217;s The Most Liked Stuff On This Site?</h3><ul class='widgets-list-layout no-grav'>
+<li><a href="https://wolfsgamingblog.com/2023/06/09/mortal-kombat-1-complete-list-of-playable-characters-and-kameo-fighters/" title="Mortal Kombat 1: complete list of playable characters and Kameo fighters" class="bump-view" data-bump-view="tp"><img width="40" height="40" src="https://wolfsgamingblog.files.wordpress.com/2023/06/mk1-header.jpg?w=1200&#038;resize=40%2C40" alt="Mortal Kombat 1: complete list of playable characters and Kameo fighters" data-pin-nopin="true" class="widgets-list-layout-blavatar" /></a><div class="widgets-list-layout-links">
+								<a href="https://wolfsgamingblog.com/2023/06/09/mortal-kombat-1-complete-list-of-playable-characters-and-kameo-fighters/" title="Mortal Kombat 1: complete list of playable characters and Kameo fighters" class="bump-view" data-bump-view="tp">Mortal Kombat 1: complete list of playable characters and Kameo fighters</a>
+							</div>
+							</li><li><a href="https://wolfsgamingblog.com/2022/12/31/8bitdo-ultimate-wired-controller-review-the-best-pro-controller-alternative/" title="8BitDo Ultimate Wired Controller Review - The Best Pro Controller Alternative?" class="bump-view" data-bump-view="tp"><img width="40" height="40" src="https://wolfsgamingblog.files.wordpress.com/2022/12/dsc_2833.jpg?w=1200&#038;resize=40%2C40" alt="8BitDo Ultimate Wired Controller Review - The Best Pro Controller Alternative?" data-pin-nopin="true" class="widgets-list-layout-blavatar" /></a><div class="widgets-list-layout-links">
+								<a href="https://wolfsgamingblog.com/2022/12/31/8bitdo-ultimate-wired-controller-review-the-best-pro-controller-alternative/" title="8BitDo Ultimate Wired Controller Review - The Best Pro Controller Alternative?" class="bump-view" data-bump-view="tp">8BitDo Ultimate Wired Controller Review - The Best Pro Controller Alternative?</a>
+							</div>
+							</li><li><a href="https://wolfsgamingblog.com/2023/06/08/ranking-the-gears-of-war-games-from-worst-to-best/" title="The best Gears of War games, ranked" class="bump-view" data-bump-view="tp"><img width="40" height="40" src="https://wolfsgamingblog.files.wordpress.com/2020/11/33958-apps.60214.13510798884671596.04227bb2-4efd-4b7d-9781-e52626ebb47f.79570f08-a10f-4d96-8ad6-90c35c3b5cce.jpg?w=1200&#038;resize=40%2C40" alt="The best Gears of War games, ranked" data-pin-nopin="true" class="widgets-list-layout-blavatar" /></a><div class="widgets-list-layout-links">
+								<a href="https://wolfsgamingblog.com/2023/06/08/ranking-the-gears-of-war-games-from-worst-to-best/" title="The best Gears of War games, ranked" class="bump-view" data-bump-view="tp">The best Gears of War games, ranked</a>
+							</div>
+							</li><li><a href="https://wolfsgamingblog.com/2023/01/22/razer-basilisk-v3-review-feature-packed-comfy-mouse/" title="Razer Basilisk V3 Review - Feature Packed &amp; Comfy Mouse" class="bump-view" data-bump-view="tp"><img width="40" height="40" src="https://wolfsgamingblog.files.wordpress.com/2023/01/chroma_rgb-min.png?w=1200&#038;resize=40%2C40" alt="Razer Basilisk V3 Review - Feature Packed &amp; Comfy Mouse" data-pin-nopin="true" class="widgets-list-layout-blavatar" /></a><div class="widgets-list-layout-links">
+								<a href="https://wolfsgamingblog.com/2023/01/22/razer-basilisk-v3-review-feature-packed-comfy-mouse/" title="Razer Basilisk V3 Review - Feature Packed &amp; Comfy Mouse" class="bump-view" data-bump-view="tp">Razer Basilisk V3 Review - Feature Packed &amp; Comfy Mouse</a>
+							</div>
+							</li><li><a href="https://wolfsgamingblog.com/2023/07/17/microsoft-sony-enter-deal-to-bring-call-of-duty-to-playstation/" title="Microsoft &amp; Sony enter deal to bring Call of Duty to PlayStation" class="bump-view" data-bump-view="tp"><img width="40" height="40" src="https://wolfsgamingblog.files.wordpress.com/2023/07/cod.webp?resize=40%2C40" alt="Microsoft &amp; Sony enter deal to bring Call of Duty to PlayStation" data-pin-nopin="true" class="widgets-list-layout-blavatar" /></a><div class="widgets-list-layout-links">
+								<a href="https://wolfsgamingblog.com/2023/07/17/microsoft-sony-enter-deal-to-bring-call-of-duty-to-playstation/" title="Microsoft &amp; Sony enter deal to bring Call of Duty to PlayStation" class="bump-view" data-bump-view="tp">Microsoft &amp; Sony enter deal to bring Call of Duty to PlayStation</a>
+							</div>
+							</li></ul>
+</aside><aside id="twitter_timeline-2" class="widget widget_twitter_timeline"><h3 class="widget-title">Follow me on Twitter</h3><a class="twitter-timeline" data-height="400" data-theme="light" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" href="https://twitter.com/@wolfsgamingblog" href="https://twitter.com/@wolfsgamingblog">My Tweets</a></aside><aside id="media_image-3" class="widget widget_media_image"><h3 class="widget-title">Check out more reviews on:</h3><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><a href="http://opencritic.com/"><img width="1000" height="800" src="https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png" class="image wp-image-27791 alignnone attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" title="Open Critic" srcset="https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=1000&amp;h=800 1000w, https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=2000&amp;h=1600 2000w, https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=150&amp;h=120 150w, https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=300&amp;h=240 300w, https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=768&amp;h=614 768w, https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=1024&amp;h=819 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-attachment-id="27791" data-permalink="https://wolfsgamingblog.com/2017/05/06/sniper-ghost-warrior-3-review-aim-fire-miss/orange-icon-gray-text-top/" data-orig-file="https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png" data-orig-size="3000,2400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="orange icon, gray text TOP" data-image-description="" data-image-caption="" data-medium-file="https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=300" data-large-file="https://wolfsgamingblog.files.wordpress.com/2017/05/orange-icon-gray-text-top.png?w=1000" /></a></aside>					</div><!-- .grid-container -->
+				</div><!-- #secondary -->
+
+			
+			<div class="footer-bottom-info ">
+
+				
+				<div class="site-info">
+					<a href="https://wordpress.com/?ref=footer_custom_powered" rel="nofollow">Website Powered by WordPress.com</a>.
+					
+									</div><!-- .site-info -->
+			</div><!-- .footer-bottom-info -->
+
+		</footer><!-- #colophon -->
+
+	</div><!-- .site-inner -->
+</div><!-- #page -->
+
+		<script type="text/javascript">
+		var infiniteScroll = {"settings":{"id":"posts","ajaxurl":"https:\/\/wolfsgamingblog.com\/?infinity=scrolling","type":"click","wrapper":false,"wrapper_class":"infinite-wrap","footer":"primary","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"11.07.23","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":1,"history":{"host":"wolfsgamingblog.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[63227,63066,62826,62795,46458,62550],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"search_columns":[],"lazy_load_term_meta":false,"posts_per_page":10,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"update_menu_item_cache":false,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"query_before":"2023-07-18 09:02:36","last_post_date":"2023-07-11 00:16:54","body_class":"infinite-scroll","loading_text":"Loading new page","stats":"blog=10853858&v=wpcom&tz=1&user_id=0&subd=wolfsgamingblog&x_pagetype=infinite-click"}};
+		</script>
+		<!--  -->
+		<div class="jetpack-instant-search__widget-area" style="display: none">
+							<div id="jetpack-search-filters-2" class="widget jetpack-filters widget_search">			<div id="jetpack-search-filters-2-wrapper" class="jetpack-instant-search-wrapper">
+		<h2 class="widgettitle">Search</h2></div></div>					</div>
+		<script src='//0.gravatar.com/js/gprofiles.js?ver=202329a38e82b72ca7b7f7489a6e0d2e13bda8e1ecaa4ef340fc6b01754378626ee67e' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+		<script type="text/javascript">
+		( function() {
+			function init() {
+				document.body.addEventListener( 'is.post-load', function() {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+		</script>	<div id="actionbar" style="display: none;"
+			class="actnbr-pub-dyad-2 actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://wolfsgamingblog.com">
+				<img alt='' src='https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=50' srcset='https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=50 1x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=75 1.5x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=100 2x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=150 3x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=200 4x' class='avatar avatar-50' height='50' width='50' />				WGB, Home of AWESOME Reviews			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Join 1,171 other followers</div>
+																					<div>
+										<input type="email" name="email" placeholder="Enter your email address" class="actnbr-email-field" aria-label="Enter your email address" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="10853858" />
+										<input type="hidden" name="source" value="https://wolfsgamingblog.com/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="9f13c41169" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Sign me up">
+												Sign me up											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwolfsgamingblog.com%252F2023%252F07%252F17%252Fxbox-games-with-gold-is-ending-will-be-replaced-with-game-pass-core%252F">Log in now.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename">
+			<a href="https://wolfsgamingblog.com">
+				<img alt='' src='https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=50' srcset='https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=50 1x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=75 1.5x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=100 2x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=150 3x, https://wolfsgamingblog.files.wordpress.com/2023/03/cropped-wolfsgamingblog-logo.jpg?w=200 4x' class='avatar avatar-50' height='50' width='50' />				WGB, Home of AWESOME Reviews			</a>
+		</li>
+								<li class="actnbr-folded-customize">
+								<a href="https://wolfsgamingblog.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fwolfsgamingblog.wordpress.com%2F">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"/></g></svg>									<span>Customize</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow">
+												<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
+									<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwolfsgamingblog.com%252F2023%252F07%252F17%252Fxbox-games-with-gold-is-ending-will-be-replaced-with-game-pass-core%252F">Log in</a></li>
+																	<li class="flb-report">
+										<a href="http://en.wordpress.com/abuse/?report_url=https://wolfsgamingblog.com" target="_blank">
+											Report this content										</a>
+									</li>
+																	<li class="actnbr-reader">
+										<a href="https://wordpress.com/read/feeds/46635">
+											View site in Reader										</a>
+									</li>
+																	<li class="actnbr-subs">
+										<a href="https://subscribe.wordpress.com/">Manage subscriptions</a>
+									</li>
+																		<li class="actnbr-fold"><a href="">Collapse this bar</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20220329";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+			<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/_static/??-eJyljcsKwjAQRX/IOASp1IX4LXmMIXUyCZmE0r/XghVx4UI3F+7hPmAuymVuyA0s5aAK9RBZIMRrixyUNcxYwckn2j/QDt7qqb/KE7Zi3O3pIeW8iu+EAs7U3AUJZI4Fq7KdPeHfa1toA78OtkjoVTBEWJdvbj24pLM+joM+6PE0THd7eH1A&cssminify=yes' type='text/css' media='all' />
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJx9jEEOwjAMwD5EFw0VBAfEU9BIA6RL07K0sP0eDiBx4mjZMjyLw6yVtEI0CPRgpDJ30Vbwo1JzRdqV1UB4JIN7o0a3QYPQ9CeOVMuA44ch5axwYkU4N5YArBdWruQMpyzy5aVLrO/rMR367W7Tr/fe+/gCtk8/Jw=='></script>
+<script crossorigin='anonymous' src='https://s0.wp.com/wp-content/plugins/gutenberg-core/v16.2.1/build/url/index.min.js?m=1689267665i&#038;ver=35ed32268ef1a078066b' id='wp-url-js'></script>
+<script type='text/javascript'>
+var JetpackInstantSearchOptions=JSON.parse(decodeURIComponent("%7B%22overlayOptions%22%3A%7B%22colorTheme%22%3A%22light%22%2C%22enableInfScroll%22%3Atrue%2C%22enableFilteringOpensOverlay%22%3Atrue%2C%22enablePostDate%22%3Atrue%2C%22enableSort%22%3Atrue%2C%22highlightColor%22%3A%22%23cf2e2e%22%2C%22overlayTrigger%22%3A%22submit%22%2C%22resultFormat%22%3A%22expanded%22%2C%22showPoweredBy%22%3Atrue%2C%22defaultSort%22%3A%22relevance%22%2C%22excludedPostTypes%22%3A%5B%22attachment%22%2C%22jetpack-testimonial%22%5D%7D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fwolfsgamingblog.com%22%2C%22locale%22%3A%22en%22%2C%22postsPerPage%22%3A10%2C%22siteId%22%3A10853858%2C%22postTypes%22%3A%7B%22post%22%3A%7B%22singular_name%22%3A%22Post%22%2C%22name%22%3A%22Posts%22%7D%2C%22page%22%3A%7B%22singular_name%22%3A%22Page%22%2C%22name%22%3A%22Pages%22%7D%2C%22attachment%22%3A%7B%22singular_name%22%3A%22Media%22%2C%22name%22%3A%22Media%22%7D%7D%2C%22webpackPublicPath%22%3A%22https%3A%5C%2F%5C%2Fs0.wp.com%5C%2Fwp-content%5C%2Fmu-plugins%5C%2Fjetpack-plugin%5C%2Fmoon%5C%2Fjetpack_vendor%5C%2Fautomattic%5C%2Fjetpack-search%5C%2Fbuild%5C%2Finstant-search%5C%2F%22%2C%22isPhotonEnabled%22%3Atrue%2C%22isFreePlan%22%3Atrue%2C%22apiRoot%22%3A%22https%3A%5C%2F%5C%2Fpublic-api.wordpress.com%5C%2F%22%2C%22apiNonce%22%3A%22e6bd311159%22%2C%22isPrivateSite%22%3Afalse%2C%22isWpcom%22%3Atrue%2C%22hasOverlayWidgets%22%3Atrue%2C%22widgets%22%3A%5B%7B%22filters%22%3A%5B%7B%22name%22%3A%22Categories%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22category%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%2C%22filter_id%22%3A%22taxonomy_0%22%7D%2C%7B%22name%22%3A%22Tags%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22post_tag%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%2C%22filter_id%22%3A%22taxonomy_1%22%7D%2C%7B%22name%22%3A%22Year%22%2C%22type%22%3A%22date_histogram%22%2C%22count%22%3A5%2C%22field%22%3A%22post_date%22%2C%22interval%22%3A%22year%22%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%2C%22filter_id%22%3A%22date_histogram_2%22%7D%5D%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%7D%5D%2C%22widgetsOutsideOverlay%22%3A%5B%5D%2C%22hasNonSearchWidgets%22%3Afalse%7D"));
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.js?m=1689175517i'></script>
+<script crossorigin='anonymous' src='//stats.wp.com/w.js?ver=202329' id='jp-tracks-js'></script>
+<script id='gifting-banner-js-extra'>
+var gifting_banner = {"dismiss_days_count":"365","checkout_link":"https:\/\/wordpress.com\/checkout\/personal-bundle\/gift\/19736231?cancel_to=\/home","more_info_link":"https:\/\/wordpress.com\/support\/gift-a-wordpress-com-subscription\/","i18n":{"title":"Enjoy this site?","subtitle":"Gift the author a WordPress.com plan.","button_text":"Gift"}};
+</script>
+<script id='jetpack-carousel-js-extra'>
+var jetpackSwiperLibraryPath = {"url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/jetpack-plugin\/moon\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/wolfsgamingblog.com\/wp-admin\/admin-ajax.php","nonce":"e124d73ec1","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/wolfsgamingblog.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fwolfsgamingblog.com%2F2023%2F07%2F11%2Fget-metroid-prime-remastered-for-22%2F","blog_id":"10853858","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=10853858&v=wpcom&tz=1&user_id=0&subd=wolfsgamingblog","is_public":"1"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJydkNFOwzAMRX+ILGKCiRfEpyA3cYNbx46aZKV/v2iiE1TTNpG3ax/fa8fOyTiVglJs+cKI2abaWb+AN3s7ZCtwpACFVHZDfrL38DxSMkwyml5dzaan78fmmNy4kiSOq29Ma1CEgJkVPPpdJLnGRMgq0/K7fTMssHbAWzRWk7gGkuaJJYEbf7SNqmI/W6ItM5WCkykUsV2JW4+ONVxcAvWFJJgORHA6B/+p/GeBrhJ762DSmpEv3Fq49gWP2xZi9CYAM07LLXUnZt3GzMlp3Mg29xHfnw9vry+HfXvDCclq7rU='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<script type="text/javascript">
+			(function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["mobile-useragent-info","rlt-proxy","wp-polyfill-inert","regenerator-runtime","wp-inert-polyfill","wp-polyfill","wp-hooks","wp-i18n","wp-jp-i18n-loader","jquery-core","jquery-migrate","jquery","cmp-script-stub","wpcom-actionbar-placeholder","grofiles-cards","wpgroho","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","wp-url","jetpack-instant-search","jp-tracks","dyad-2-navigation","dyad-2-skip-link-focus-fix","slick","imagesloaded","masonry","dyad-2-global","jetpack-twitter-timeline","gifting-banner","jetpack-carousel","tiled-gallery","carousel-wpcom"] );
+				extend( window.infiniteScroll.settings.styles, ["wordads-global","jetpack_likes","the-neverending-homepage","wp-block-library","wp-block-library-theme","jetpack-videopress-video-block-view","mediaelement","wp-mediaelement","jetpack-layout-grid","jetpack-ratings","coblocks-frontend","classic-theme-styles","wpcom-core-compat-playlist-styles","wpcom-bbpress2-staff-css","genericons","dyad-2-style","dyad-2-block-style","dyad-2-wpcom","jetpack-top-posts-widget","geo-location-flair","reblogging","a8c-global-print","sharedaddy","social-logos","h4-global","global-styles","dyad-2-fonts","jetpack-global-styles-frontend-style","gifting-banner","jetpack-carousel-swiper-css","jetpack-carousel","tiled-gallery"] );
+			})();
+		</script>
+				<span id="infinite-aria" aria-live="assertive"></span>
+		<script src="//stats.wp.com/w.js?63" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'10853858','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'10853858','v':'wpcom','tz':'1','user_id':'0','subd':'wolfsgamingblog'}]);
+_stq.push(['extra', {'crypt':'UE5VTUIlVktzQVNtcFdrVUQrYTdpR2p3ME9nNi9ZJnFjZENCXXxjWVIlTD1CP3pVc0UsY09RVEY5Tmg/YTBTWHxqLTJfdXddQnEsTFhdfnRtRjFJRWJ2eF1xUXk/czgmbkkmXVtIMGZqcFhIOT1uJSZdP3k4djRWSUQyWnZUWWM2VXdmfDV+blp2fnQ9JW50cmZaSFhHXVdPczQlbThadjE9YWVoNXp+X1BrLHpSclc5Rzl6QWxFJT1kLTZfamZGZDF0PVRXZyZGTDZiTVQ3UmtCVk8sSmpkLzRofDhhQ1tHNlgueX4rP0t2fnJ+PzVuOWZ4PUNdcDJUNnEuLFowaF1CPUJ0UFglbFovfDg9Ky8lOV82Y0xRdyxP'}]);
+_stq.push([ 'clickTrackerInit', '10853858', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+<!--
+	generated in 0.913 seconds
+	125972 bytes batcached for 300 seconds
+-->
